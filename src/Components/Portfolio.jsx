@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/computer_setting.jpeg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Notion Website 1P13 Projects",
     description:
       "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://smooth-timbale-38e.notion.site/Samridhi-Anand-1072110d8d1f4996bf317564b6fba4c8",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Project - Robotic Q-Arm in Healthcare",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      " The objective was to minimize the container's mass and size and fit it inside the given footprint.",
+    url: "https://smooth-timbale-38e.notion.site/Summary-f89c9d89621d4fbca97d0b1e90187f09",
   },
   {
-    title: "My Resume Site",
+    title: "My Linkedin",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Hi this is my LinkedIn",
+    url: "https://www.linkedin.com/in/samridhi-anand-99a49a253/",
   },
   {
     title: "GitHub Codespaces and github.dev",
