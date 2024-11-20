@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "This is my Portfolio Website";
+  "This is my Portfolio Website.";
 
 const About = () => {
   return (
